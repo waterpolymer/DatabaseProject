@@ -1,7 +1,7 @@
 # DatabaseProject
-A project using Riot API to compare user stats to the average of the challenger tier
+A project using Riot API to compare the inputted user's stats to the average of the top 0.01% of users, also known as the challenger tier
 
-The project is made using rstudio.
+The project was made using rstudio.
 
 In order to run the program properly the user must: 
   * Replace database username, password, port, etc. information to their own database information
